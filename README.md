@@ -2,7 +2,6 @@
 
 A simple desktop expense tracker built with **Python** and **Tkinter**. Record your daily spending, filter it by category, and see totals at a glance. Everything is saved automatically to a CSV file, so your data is still there the next time you open the app.
 
-![Expense Tracker screenshot](screenshots/screenshot.png)
 
 ## Features
 
